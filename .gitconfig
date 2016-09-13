@@ -1,0 +1,6 @@
+[alias]
+	oneline = log --pretty=oneline --abbrev-commit --graph --decorate=short --remotes --branches
+	lg = log --pretty=oneline --abbrev-commit --graph --decorate=short --remotes --branches
+[user]
+	name = Mathieu Gorichon
+	email = m.gorichon@lectra.com
